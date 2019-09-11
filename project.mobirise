@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Pan Malayan Group Of Companies",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -43,7 +43,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "Home Page of Pan Malayan Group of Companies",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -587,7 +587,7 @@
     },
     "page1.html": {
       "settings": {
-        "meta_descr": "Web Maker Description",
+        "meta_descr": "About Us - Pan Malayan",
         "title": "About Us",
         "order": 2
       },
@@ -1404,7 +1404,7 @@
     },
     "page2.html": {
       "settings": {
-        "meta_descr": "Web Site Maker Description",
+        "meta_descr": "Services - Pan Malayan",
         "title": "Services",
         "order": 3
       },
