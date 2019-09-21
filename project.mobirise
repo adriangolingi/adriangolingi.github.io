@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Pan Malayan Group Of Companies",
-    "currentPage": "about-us.html",
+    "currentPage": "contact-us.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2751,10 +2751,10 @@
         }
       ]
     },
-    "page4.html": {
+    "laws-and-rates.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
-        "title": "Law &amp; Rates Updates",
+        "meta_descr": "Law & Rates Updates for Pan Malayan",
+        "title": "Law & Rates Updates",
         "order": 1
       },
       "components": [
